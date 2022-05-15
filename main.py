@@ -1,10 +1,10 @@
 import praw
 import pandas as pd
-reddit = praw.Reddit(client_id="145RKY8csM8D0JfqTz6k5Q",
-                     client_secret="jQboL3Gmb_k7hnivXou2FmiSHGdfaQ",
-                     user_agent="hewhoremained",
-                     username="Melodic_Parsnip_42",
-                     password="safalGautam@1")
+reddit = praw.Reddit(client_id="",
+                     client_secret="",
+                     user_agent="",
+                     username="",
+                     password="")
 
 sub = ['PewdiepieSubmissions']
 for s in sub:
